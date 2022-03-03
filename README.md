@@ -2,8 +2,8 @@
 Game Development -- Repository  
 
 
-Group Members :
-   ________NAME_____________________StdId_______
+
+**Group Members :**
   |                      |                      |
 1 | Bilal laeeq          |         61504        |
 2 | Muhanmad Ahsan       |         60712        |
