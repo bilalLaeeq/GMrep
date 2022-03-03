@@ -5,11 +5,10 @@ Game Development -- Repository
 
 >**Group Members :**
 
-1. | Bilal laeeq          |         61504        |
-2. | Muhanmad Ahsan       |         60712        |
-3. | Muhammad burair wali |         62163        |
-4. |                      |                      |
-5. |                      |                      |
+1.  Bilal laeeq                   61504        
+2.  Muhanmad Ahsan               60712        
+3.  Muhammad burair wali         62163        
+
 
 
  
