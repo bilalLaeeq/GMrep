@@ -1,4 +1,4 @@
-# GMrep __Introduction__
+# GM_Rep  __Introduction__
 Game Development -- Repository  
 
 
@@ -7,7 +7,7 @@ Game Development -- Repository
 
 1.  Bilal laeeq                  61504        
 2.  Muhanmad Ahsan               60712        
-3.  Muhammad burair wali         62163        
+3.  Muhammad Burrair Wali         62163        
 
 
 
