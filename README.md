@@ -18,3 +18,9 @@ Game Development -- Repository
    `If i have hand on exprience in Game Development ,So i will Develop a Game in Metaverse Where people can viusally Play PS,Xbox,etc Racing Games.
    where they can play with reality `
 
+2. Muhammad Ahsan:
+     My Idea: 
+
+Give each student an empty balloon and a slip of paper. Ask them to write a get-to-know-you question on their paper, such as How many brothers and sisters do you have? Do you have any pets? What’s one fun thing you did this summer? Next, have them put their question inside the balloon, blow it up, and tie the end.
+
+When everyone is ready, have them gather on the rug, and, on your signal, toss their balloon up in the air. Give them a couple of minutes to bat the balloons around, then call stop. Have each student grab one balloon and come sit in a circle. Go around the circle and, one at a time, have students pop their balloon, read the question inside, and answer the question.
