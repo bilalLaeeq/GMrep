@@ -6,7 +6,7 @@ Game Development -- Repository
 >**Group Members :**
  
 
-| FirstName     | Student ID    
+| Student Name     | Student ID    
 | ------------- | ------------- |
 | `Bilal laeeq`        | 61504     |
 | `Muhanmad Ahsan`         | 60712   |
