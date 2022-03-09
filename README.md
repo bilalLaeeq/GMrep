@@ -13,7 +13,7 @@ Game Development -- Repository
 | `Muhammad Burrair Wali`        | 62163  |
 | `Muhammad Abdullah Farooqui`         | 60786  |
 | `Muhammad Hassan Siddiqui`         | 63187  |
- 
+| `Syeda Mahrukh Zehra`    | 61363 |
 >**Game Like To Develop ::**
 
 1. Bilal laeeq:
@@ -46,3 +46,9 @@ When everyone is ready, have them gather on the rug, and, on your signal, toss t
 
 
 3D game development is a growing multi billion dollar industry and it is only going to expand in the near future. It will be a great addition to my resume to add game develepor. Hopefully it will open up a lot of opputunties for me
+
+
+
+5. Syeda Mahrukh Zehra 61363
+
+An excellent course to get an command on Unity’s different features and start with the Unity game engine which is amazing to learn Unity. Game development course is fun and rewarding experience in computer engineering. 2D,3D objects can manipulating scene, designing features and much more. This is the best opportunity for the beginners to hand on game development course.
