@@ -52,3 +52,7 @@ When everyone is ready, have them gather on the rug, and, on your signal, toss t
 5. Syeda Mahrukh Zehra 61363
 
 An excellent course to get an command on Unity’s different features and start with the Unity game engine which is amazing to learn Unity. Game development course is fun and rewarding experience in computer engineering. 2D,3D objects can manipulating scene, designing features and much more. This is the best opportunity for the beginners to hand on game development course.
+
+5. Muhammad Hassan Siddiqui 63187
+If I will have enough resources and time,I will develop a "Horror and survival" type of game like "Resident Evil" one of my favourite childhood game that I played most of time 
+.But now I will upgrade its story adding some more adversories , more horror flavour, more attacking weapons not guns but physically like longsword etc and add one more challenge to its story like to rescue hostages .
