@@ -10,8 +10,12 @@ Game Development -- Repository
 3.  Muhammad Burrair Wali         62163    
 4.  Muhammad Abdullah Farooqui    60786    
 
-
-
+| FirstName     | Student ID    
+| ------------- | ------------- |
+| `Bilal laeeq`        | 61504     |
+| `Muhanmad Ahsan`         | 60712   |
+| `Muhammad Burrair Wali`        | 62163  |
+| `Muhammad Abdullah Farooqui`         | 60786  |
  
 >**Game Like To Develop ::**
 
