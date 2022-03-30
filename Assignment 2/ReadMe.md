@@ -31,3 +31,15 @@ Description: Two players of different colors drop their tokens on an upright boa
 
 Variant: Different board sizes. Walls inside the board that appear when the spaces beneath them are filled.
 
+*** SYEDA MAHRUKH ***
+
+
+1. Puzzle- A word search, word find, word seek or mystery word puzzle is a word game that consists of the letters of words placed in a grid, which usually has a rectangular or square shape. The objective of this puzzle is to find and mark all the words hidden inside the box.
+
+2. Tic tac toe - A simple game like tic-tac-toe can be a mirror of how people move through obstacles and handle decisions in life. It also shows you that the pluses outweigh the minuses and that you learn how to develop strategies to help you pull through. It's these kinds of life lessons that you would want to share to your children.
+
+3. Detective search is a game in which you hide something special around the house, and then leave a chain of clues for your kids to find and solve until they uncover the hidden prize. It's easier than it sounds to set up and can be played with a few pieces of scratch paper or some common household items.
+
+4. Temple Run is a 3D endless running video game developed and published by Imangi Studios. The player controls an explorer who has obtained an ancient relic and runs from demonic monkey-like creatures chasing him. We can design more creative way of this game by designing more colorful interface and different colour of objects.
+
+5. Zuma deluxe is also a eye-catching game that reliefs mind and satisfies center placed frog hit in rotatory cycle. We can recreate this game with other objects.
