@@ -49,9 +49,17 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 
 ## Bilal laeeq
 
-[^1].**The Room**: The Room is a puzzle video game The room is a 3D video game and in this game, initially, 4 puzzle boxes are presented to the players. In the first box,  you will find a tutorial about how to move around the box and how to interact with the features of the box.
+###### 1. **The Room**: 
+> The Room is a puzzle video game The room is a 3D video game and in this game, initially, 4 puzzle boxes are presented to the players. In the first box,  you will find a tutorial about how to move around the box and how to interact with the features of the box.
 
-[^2].**Street Racing Game 2d** :  This is a single player racing game. Talking about the gameplay, user has to dodge other cars and score points. The more you play, more you’ll score the points. PC controls are [Left, Right, Up. Down Arrow Keys for movement]. Difficulty level : Beginners.
+###### 2. **Street Racing Game 2d** :
+> This is a single player racing game. Talking about the gameplay, user has to dodge other cars and score points. The more you play, more you’ll score the points. PC controls are [Left, Right, Up. Down Arrow Keys for movement]. Difficulty level : Beginners.
 
-[^3]. **Can K.O Game**: The player has to hit the cans with different balls. At total, there are 5 balls and the player has to keep on throwing within those given balls. Whenever the player throws the ball in the center part of the can, it creates an explosion and these type of action gains more score points. The more you keep on hitting the Cans without missing, more will be your score points. Simply, try to hit the can with K.O. In order to knock down the can, the player has to swipe the ball towards the can at a speed. The main objective of this game is to knock down cans as many as you can but with a certain number of balls.
+###### 3. **Can K.O Game**: 
+> The player has to hit the cans with different balls. At total, there are 5 balls and the player has to keep on throwing within those given balls. Whenever the player throws the ball in the center part of the can, it creates an explosion and these type of action gains more score points. The more you keep on hitting the Cans without missing, more will be your score points. Simply, try to hit the can with K.O. In order to knock down the can, the player has to swipe the ball towards the can at a speed. The main objective of this game is to knock down cans as many as you can but with a certain number of balls.
 
+###### 4. **Risk of Rain**:
+> Risk of rain is a video game and this is a multiplayer game. In this game, the player has to progress several different levels by killing enemies. Objective of each level is to locate a teleporter, randomly located on the level, search them and kill before they get activated.
+
+###### 5. **Roller Madness**:
+> Roller Madness game is all about moving a rolling ball with full control avoiding the obstacles and without falling outer game surface. In this game, the player has to control the rolling ball in order to collect yellow coins. There are some cubes which make the ball bounce back. The cube boxes fall to the game surface and it tries to stop the ball. Where ever the ball moves, the boxed cubes follow and if it touches the ball then the game is over. The gameplay is not so simple, controlling the ball is a bit hard as it moves with extra force and the can dodge two or more boxed cubes in order to destroy it. After Collecting 5 coins, the level is complete. Likewise in another level, there are more obstacles with high difficulties in collecting coins.
