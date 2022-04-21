@@ -1,3 +1,6 @@
+# Assignment 2  
+
+
 1. Dodger
 
 Description: Several bad guys fall from the top of the screen, and the user must avoid them. The player can be controlled with the arrow keys or more directly with the
@@ -43,3 +46,12 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 4. Temple Run is a 3D endless running video game developed and published by Imangi Studios. The player controls an explorer who has obtained an ancient relic and runs from demonic monkey-like creatures chasing him. We can design more creative way of this game by designing more colorful interface and different colour of objects.
 
 5. Zuma deluxe is also a eye-catching game that reliefs mind and satisfies center placed frog hit in rotatory cycle. We can recreate this game with other objects.
+
+## Bilal laeeq
+
+###### 1.**The Room**: The Room is a puzzle video game The room is a 3D video game and in this game, initially, 4 puzzle boxes are presented to the players. In the first box,  you will find a tutorial about how to move around the box and how to interact with the features of the box.
+
+
+
+
+
