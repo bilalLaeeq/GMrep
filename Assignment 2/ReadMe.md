@@ -1,6 +1,6 @@
 # Assignment 2  
 
-## Muhammad Ahsan
+Ahsan 
 1. Dodger
 
 Description: Several bad guys fall from the top of the screen, and the user must avoid them. The player can be controlled with the arrow keys or more directly with the
@@ -32,10 +32,9 @@ Variant: A nine-button version can add challenge to this game (but more than tha
 
 Description: Two players of different colors drop their tokens on an upright board. The player to make four tokens in a row, column, or diagonal wins. Creating an AI for this requires a simple minimax algorithm.
 
-
 Variant: Different board sizes. Walls inside the board that appear when the spaces beneath them are filled.
 
-## SYEDA MAHRUKH 
+*** SYEDA MAHRUKH ***
 
 
 1. Puzzle- A word search, word find, word seek or mystery word puzzle is a word game that consists of the letters of words placed in a grid, which usually has a rectangular or square shape. The objective of this puzzle is to find and mark all the words hidden inside the box.
@@ -65,13 +64,18 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 ###### 5. **Roller Madness**:
 > Roller Madness game is all about moving a rolling ball with full control avoiding the obstacles and without falling outer game surface. In this game, the player has to control the rolling ball in order to collect yellow coins. There are some cubes which make the ball bounce back. The cube boxes fall to the game surface and it tries to stop the ball. Where ever the ball moves, the boxed cubes follow and if it touches the ball then the game is over. The gameplay is not so simple, controlling the ball is a bit hard as it moves with extra force and the can dodge two or more boxed cubes in order to destroy it. After Collecting 5 coins, the level is complete. Likewise in another level, there are more obstacles with high difficulties in collecting coins.
 
-************* Muhammad Hassan***************
- 1 The Room: The Room is a puzzle video game The room is a 3D video game and in this game, initially, 4 puzzle boxes are presented to the players. In the first box,  you will find a tutorial about how to move around the box and how to interact with the features of the box.
 
-2 Blackguards: Blackguards is a tactical role-playing game. In this game, the player has to solve the mystery of princess murder with the help of various character player meet during his long journey. Blackguard is a fictional place of Empire of Horasia.
+## Muhammad Burrair Wali
 
-3. SpongeBob HeroPants: SpongeBob Heropants is an action-adventure video game based on the animated games. In this game, SpongeBob’s dreams are coming to life, so the player has to repair the SpongeBobs mind by solving the puzzle.
+###### 1. **Shooting game**: 
+> In this game we will make a small map in which we kill Israel Enemies and we can select different guns.
 
-4. Flip Wars: Flip Wars is an action tile-matching party video games. This is a multiplayer game(up to 4 players). The object of the game is to flip panels on a hip Drop and player who dominates before timing will be the winner.
+###### 2. **Maze Game**:
+> we will create a pac man type game in which a pac will eat foods and basically its not a pac man game its something similar to it.
 
-5. Just Shapes & Beats: Just Shapes & Beats is an action rhythm video game. In this game, each player has to control one small shapes and surviving attacks by dodging against a variety of attacks.
+###### 3. **Draught**: 
+> After Chess, Checkers, a form of Draughts (draughts), is by far the most popular board game in the world. It's a fun and difficult two-player game with friends for people of all ages. You may play as a novice or an expert.
+
+
+
+
