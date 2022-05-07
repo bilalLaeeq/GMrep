@@ -94,5 +94,5 @@ SpongeBob Heropants is an action-adventure video game based on the animated game
 ###### 4. **Flip Wars:**:
 Flip Wars is an action tile-matching party video games. This is a multiplayer game(up to 4 players). The object of the game is to flip panels on a hip Drop and player who dominates before timing will be the winner.
 
-###### 1. **Just Shapes & Beats**:
+###### 5. **Just Shapes & Beats**:
 Just Shapes & Beats is an action rhythm video game. In this game, each player has to control one small shapes and surviving attacks by dodging against a variety of attacks.
