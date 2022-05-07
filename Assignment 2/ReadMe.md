@@ -68,14 +68,14 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 ## Muhammad Burrair Wali
 
 ###### 1. **Shooting game**: 
-> In this game we will make a small map in which we kill Israel Enemies and we can select different guns.
+> Shooter video games, in which the player's primary goal is to beat the character's opponents with the weapons available to them. These weapons are usually rifles or other long-range weaponry. In this game we will make a small map in which we kill Israel Enemies and we can select different guns.
 
 ###### 2. **Maze Game**:
-> we will create a pac man type game in which a pac will eat foods and basically its not a pac man game its something similar to it.
+> A maze is a type of puzzle games where a player moves in complex and branched passages to find a particular target or location so we will create a pac man type game in which a pac will eat foods and basically its not a pac man game its something similar to it.
 
 ###### 3. **Draught**: 
 > After Chess, Checkers, a form of Draughts (draughts), is by far the most popular board game in the world. It's a fun and difficult two-player game with friends for people of all ages. You may play as a novice or an expert.
 
-
-
+###### 3. **Draught**: 
+> After Chess, Checkers, a form of Draughts (draughts), is by far the most popular board game in the world. It's a fun and difficult two-player game with friends for people of all ages. You may play as a novice or an expert.
 
