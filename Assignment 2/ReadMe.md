@@ -65,6 +65,7 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 > Roller Madness game is all about moving a rolling ball with full control avoiding the obstacles and without falling outer game surface. In this game, the player has to control the rolling ball in order to collect yellow coins. There are some cubes which make the ball bounce back. The cube boxes fall to the game surface and it tries to stop the ball. Where ever the ball moves, the boxed cubes follow and if it touches the ball then the game is over. The gameplay is not so simple, controlling the ball is a bit hard as it moves with extra force and the can dodge two or more boxed cubes in order to destroy it. After Collecting 5 coins, the level is complete. Likewise in another level, there are more obstacles with high difficulties in collecting coins.
 
 
+
 ## Muhammad Burrair Wali
 
 ###### 1. **Shooting game**: 
@@ -76,8 +77,12 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 ###### 3. **Draught**: 
 > After Chess, Checkers, a form of Draughts (draughts), is by far the most popular board game in the world. It's a fun and difficult two-player game with friends for people of all ages. You may play as a novice or an expert.
 
-###### 3. **Draught**: 
-> After Chess, Checkers, a form of Draughts (draughts), is by far the most popular board game in the world. It's a fun and difficult two-player game with friends for people of all ages. You may play as a novice or an expert.
+###### 4. **Aeroplane**: 
+> An aviation pilot-training equipment that replicates an airplane's cockpit and instruments while simulating actual flying circumstances.
+
+###### 5. **Archery**: 
+> Archery Master 3D is a 3D archery shooting game in which players (surprise!) use a bow to shoot. You can shoot the bow in various situations, at various types of bull's-eyes, and with various archers and bows.
+
 
 
 
