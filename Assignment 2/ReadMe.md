@@ -1,6 +1,6 @@
 # Assignment 2  
 
-## Muhammad Ahsan
+Ahsan 
 1. Dodger
 
 Description: Several bad guys fall from the top of the screen, and the user must avoid them. The player can be controlled with the arrow keys or more directly with the
@@ -34,7 +34,7 @@ Description: Two players of different colors drop their tokens on an upright boa
 
 Variant: Different board sizes. Walls inside the board that appear when the spaces beneath them are filled.
 
-## SYEDA MAHRUKH 
+*** SYEDA MAHRUKH ***
 
 
 1. Puzzle- A word search, word find, word seek or mystery word puzzle is a word game that consists of the letters of words placed in a grid, which usually has a rectangular or square shape. The objective of this puzzle is to find and mark all the words hidden inside the box.
@@ -63,3 +63,14 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 
 ###### 5. **Roller Madness**:
 > Roller Madness game is all about moving a rolling ball with full control avoiding the obstacles and without falling outer game surface. In this game, the player has to control the rolling ball in order to collect yellow coins. There are some cubes which make the ball bounce back. The cube boxes fall to the game surface and it tries to stop the ball. Where ever the ball moves, the boxed cubes follow and if it touches the ball then the game is over. The gameplay is not so simple, controlling the ball is a bit hard as it moves with extra force and the can dodge two or more boxed cubes in order to destroy it. After Collecting 5 coins, the level is complete. Likewise in another level, there are more obstacles with high difficulties in collecting coins.
+
+
+## Muhammad Burrair Wali
+
+###### 1. **Shooting game**: 
+In this game we will make a small map in which we kill Israel Enemies and we can select different guns.
+
+###### 2. **Maze Game**:
+we will create a pac man type game in which a pac will eat foods and basically its not a pac man game its something similar to it.
+
+
