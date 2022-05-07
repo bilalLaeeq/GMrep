@@ -1,6 +1,6 @@
 # Assignment 2  
 
-
+## Muhammad Ahsan
 1. Dodger
 
 Description: Several bad guys fall from the top of the screen, and the user must avoid them. The player can be controlled with the arrow keys or more directly with the
@@ -34,7 +34,7 @@ Description: Two players of different colors drop their tokens on an upright boa
 
 Variant: Different board sizes. Walls inside the board that appear when the spaces beneath them are filled.
 
-*** SYEDA MAHRUKH ***
+## SYEDA MAHRUKH 
 
 
 1. Puzzle- A word search, word find, word seek or mystery word puzzle is a word game that consists of the letters of words placed in a grid, which usually has a rectangular or square shape. The objective of this puzzle is to find and mark all the words hidden inside the box.
