@@ -79,3 +79,20 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 ###### 3. **Draught**: 
 > After Chess, Checkers, a form of Draughts (draughts), is by far the most popular board game in the world. It's a fun and difficult two-player game with friends for people of all ages. You may play as a novice or an expert.
 
+
+
+## Muhammad Hassan
+###### 1. **The Room:**:
+ The Room is a puzzle video game The room is a 3D video game and in this game, initially, 4 puzzle boxes are presented to the players. In the first box,  you will find a tutorial about how to move around the box and how to interact with the features of the box.
+
+###### 2. **Blackguards:**:
+Blackguards is a tactical role-playing game. In this game, the player has to solve the mystery of princess murder with the help of various character player meet during his long journey. Blackguard is a fictional place of Empire of Horasia.
+
+###### 3. **SpongeBob HeroPants**:
+SpongeBob Heropants is an action-adventure video game based on the animated games. In this game, SpongeBob’s dreams are coming to life, so the player has to repair the SpongeBobs mind by solving the puzzle.
+
+###### 4. **Flip Wars:**:
+Flip Wars is an action tile-matching party video games. This is a multiplayer game(up to 4 players). The object of the game is to flip panels on a hip Drop and player who dominates before timing will be the winner.
+
+###### 1. **Just Shapes & Beats**:
+Just Shapes & Beats is an action rhythm video game. In this game, each player has to control one small shapes and surviving attacks by dodging against a variety of attacks.
