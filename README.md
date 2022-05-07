@@ -11,7 +11,6 @@ Game Development -- Repository
 | `Bilal laeeq`        | 61504     |
 | `Muhanmad Ahsan`         | 60712   |
 | `Muhammad Burrair Wali`        | 62163  |
-| `Muhammad Abdullah Farooqui`         | 60786  |
 | `Muhammad Hassan Siddiqui`         | 63187  |
 | `Syeda Mahrukh Zehra`    | 61363 |
 >**Game Like To Develop ::**
