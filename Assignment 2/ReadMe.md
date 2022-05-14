@@ -55,8 +55,8 @@ Variant: Different board sizes. Walls inside the board that appear when the spac
 ###### 2. **Street Racing Game 2d** :
 > This is a single player racing game. Talking about the gameplay, user has to dodge other cars and score points. The more you play, more you’ll score the points. PC controls are [Left, Right, Up. Down Arrow Keys for movement]. Difficulty level : Beginners.
 
-###### 3. **Can K.O Game**: 
-> The player has to hit the cans with different balls. At total, there are 5 balls and the player has to keep on throwing within those given balls. Whenever the player throws the ball in the center part of the can, it creates an explosion and these type of action gains more score points. The more you keep on hitting the Cans without missing, more will be your score points. Simply, try to hit the can with K.O. In order to knock down the can, the player has to swipe the ball towards the can at a speed. The main objective of this game is to knock down cans as many as you can but with a certain number of balls.
+###### 3. **Shoot and Win**: 
+> This game is to destroy all Enemies and there are other objects too which should be ignored by the player while shooting. This means the player should focus only on Enemies red object. You need to monitor the Life, Bullets, remaining time counter and set of enemies. The game time and bullets counter are displayed in the upper right corner of the screen whereas Life of the player and enemies life counter on the upper left corner. He/she must be careful while aiming the enemy targets.
 
 ###### 4. **Risk of Rain**:
 > Risk of rain is a video game and this is a multiplayer game. In this game, the player has to progress several different levels by killing enemies. Objective of each level is to locate a teleporter, randomly located on the level, search them and kill before they get activated.
