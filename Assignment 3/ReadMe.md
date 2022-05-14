@@ -20,6 +20,7 @@ Shoot and win Game project is developed using Unity game Engine The language use
 ## Game Flow: 
 Shoot and win is a computer game prototype of the “Gallery Rifle Shooting”. Talking about the gameplay, the main objective of this game is to destroy all Enemies and there are other objects too which should be ignored by the player while shooting. This means the player should focus only on Enemies red object. You need to monitor the Life, Bullets, remaining time counter and set of enemies. The game time and bullets counter are displayed in the upper right corner of the screen whereas Life of the player and enemies life counter on the upper left corner. He/she must be careful while aiming the enemy targets. There are some Peaceful objects too and if the peaceful objects are destroyed it leads to decrement in player lives. Also, there are a number of bonuses that improve some parameters. During the gameplay, bullets and time icons pop up rarely and whenever the player shoots it, the time and the bullets get increased. All the enemies should be destroyed before the time runs out. In this 2D computer application, Graphics Elements and Audio Fragments of works were used.In order to run the project, you must have installed Unity 3d on your PC.
 
+###### No of Scenes 6 (approx)
 
 ###### Art: 
 Graphics Elements and Audio Fragments of works were used in this 3D game application. Different pictures, and animations are integrated in the game environment to offer an exact image of the virtual location. 
